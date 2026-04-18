@@ -139,7 +139,7 @@ export async function POST(request: Request) {
         method: "POST",
         headers: {
           Authorization: `Bearer ${OPENROUTER_API_KEY}`,
-          "HTTP-Referer": "https://luxe-glow-fbct.vercel.app/",
+          "HTTP-Referer": "https://luxe-glow-coral.vercel.app/",
           "X-Title": "LuxeGlow Quiz API",
           "Content-Type": "application/json",
         },

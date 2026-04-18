@@ -16,7 +16,7 @@
 
 📱 **Fully Responsive** | 🤖 **AI-Powered** | 🌍 **Multi-Language** | ✨ **Animations** | 🎯 **Portfolio Ready**
 
-[Live Demo](https://luxe-glow-fbct.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Setup Guide](#-quick-start)
+[Live Demo](https://luxe-glow-coral.vercel.app/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Setup Guide](#-quick-start)
 
 </div>
 
@@ -486,7 +486,7 @@ This project demonstrates production-grade web development skills including:
 - API implementation
 - Multi-language support
 
-**[View Live Demo](https://luxe-glow-fbct.vercel.app/)** • **[Clone This Project](https://github.com/Userlovesplay/LuxeGlow)**
+**[View Live Demo](https://luxe-glow-coral.vercel.app/)** • **[Clone This Project](https://github.com/Userlovesplay/LuxeGlow)**
 
 ---
 
